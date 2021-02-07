@@ -1,0 +1,18 @@
+.col{
+    height:25px;
+    width: 25px;
+    background-color: #dad4d4;
+    margin: 1px;
+    /* background-co8;l
+    /lor: #8ea7ed; */
+    /* background-color: #aae65d; */
+    /* //#dad4d4 */
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+
+    /* font-family: "Lucida Console", "Courier New", monospace; */
+}
+p{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
